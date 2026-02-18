@@ -1,4 +1,8 @@
-# solana-mobile-capacitor
+# solana-mobile-capacitor-
+CAPACITOR_7_UPGRADE.md — Mobile Capacitor upgrade report verified and custom updated.
+This document reflects upgraded code from the Solana ecosystem, migrated and checked for Capacitor 7 compatibility.
+if not worked do dowgrade your grade or update java
+
 
 Connect to native Solana wallets in your Capacitor apps
 
